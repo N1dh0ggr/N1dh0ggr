@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @N1dh0ggr
-- 👀 I’m interested in software enginerring, game development and cybersecurity
+- 👀 I’m interested in software enginerring, game development and cybersecurity, ctf
 - 🌱 I’m currently learning C++
 - 📫 How to reach me magunesen@gmail.com
 
